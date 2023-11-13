@@ -6,7 +6,7 @@ with open('requirements.txt') as f:
 setup(
     name="math_quiz",
     version="1.0",
-    author="Neelima Kawatra",
+    author="Sachin",
     packages=find_packages(),
     install_requires = required
 )
